@@ -1,0 +1,5 @@
+plugins:
+  - custom-logo-plugin
+  - custom-css-plugin
+  - behaviors-plugin
+  - screen-diff-plugin

@@ -1,0 +1,5 @@
+id: custom-css
+name: Custom css for main page
+description: The aggregator replaces default css styles for the report
+cssFiles:
+  - styles.css

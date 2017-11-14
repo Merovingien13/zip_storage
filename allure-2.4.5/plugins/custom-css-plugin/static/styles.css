@@ -1,0 +1,16 @@
+[dir] .side-nav{
+  background: #f5f5f5;
+}
+
+.side-nav__link{
+  color: #000;
+}
+
+.side-nav__link:hover{
+  background-color:#177fff;
+}
+
+.side-nav__collapse_active, .side-nav__link_active{
+  border-right: 4px solid #177fff;
+  color: #005aff;
+}
